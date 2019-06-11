@@ -1,7 +1,11 @@
-This example app is intended to show you how to implement a React Hook recipes from [Use Hook](https://usehooks.com/) by Gabe Ragland in your React App.
+This example app is intended to show you how to implement a **React Hook recipes** from [Use Hook](https://usehooks.com/) by Gabe Ragland in your React App.
+
+[Live Demo](https://leandrodci.github.io/React-UseDarkMode)
 
 ## About the Darkmode hook (useDarkMode)  
-[Direct Link](https://usehooks.com/#useDarkMode)  
+
+[Link to the Hook](https://usehooks.com/#useDarkMode)   
+
 *Composes: [useMedia](https://usehooks.com/useMedia), [useLocalStorage](https://usehooks.com/useLocalStorage)*  
 
 "This hook handles all the stateful logic required to add a ☾ dark mode toggle to your website. It utilizes localStorage to remember the user's chosen mode, defaults to their browser or OS level setting using the prefers-color-scheme media query and manages the setting of a .dark-mode className on body to apply your styles. 
