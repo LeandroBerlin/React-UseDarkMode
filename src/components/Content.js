@@ -4,7 +4,7 @@ const Content = ({ checked, onChange }) => (
     <div className="content">
         <h1>What Are Hooks, Exactly?</h1>
         <p>
-            To understand Hooks, we need to take a step back and think about code
+            "To understand Hooks, we need to take a step back and think about code
             reuse.
     </p>
         <p>
@@ -36,8 +36,12 @@ const Content = ({ checked, onChange }) => (
             Since Hooks are regular JavaScript functions, you can combine built-in
             Hooks provided by React into your own “custom Hooks”. This lets you turn
             complex problems into one-liners and share them across your application or
-            with the React community.
+            with the React community."
     </p>
+        <p>
+            <span className="Dan">Dan Abramov</span>
+            <a href="https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889">Full article</a>
+        </p>
     </div>
 );
 
