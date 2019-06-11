@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-hooks-darkmode/static/css/main.b3dd4755.chunk.css",
+    "main.js": "/react-hooks-darkmode/static/js/main.0561288d.chunk.js",
+    "main.js.map": "/react-hooks-darkmode/static/js/main.0561288d.chunk.js.map",
+    "runtime~main.js": "/react-hooks-darkmode/static/js/runtime~main.2e2a72bb.js",
+    "runtime~main.js.map": "/react-hooks-darkmode/static/js/runtime~main.2e2a72bb.js.map",
+    "static/js/2.c2695c00.chunk.js": "/react-hooks-darkmode/static/js/2.c2695c00.chunk.js",
+    "static/js/2.c2695c00.chunk.js.map": "/react-hooks-darkmode/static/js/2.c2695c00.chunk.js.map",
+    "index.html": "/react-hooks-darkmode/index.html",
+    "precache-manifest.a480c88f7f909891cddd6d2912a86e4a.js": "/react-hooks-darkmode/precache-manifest.a480c88f7f909891cddd6d2912a86e4a.js",
+    "service-worker.js": "/react-hooks-darkmode/service-worker.js",
+    "static/css/main.b3dd4755.chunk.css.map": "/react-hooks-darkmode/static/css/main.b3dd4755.chunk.css.map"
+  }
+}
