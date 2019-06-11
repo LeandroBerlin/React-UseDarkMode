@@ -6,11 +6,10 @@ Check UseHook [repo](https://github.com/gragland/usehooks)
 
 <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif">
 
-[Live Demo](https://leandrodci.github.io/React-UseDarkMode)
 
 ## About the Darkmode hook (useDarkMode)  
 
-[Link to the Hook](https://usehooks.com/#useDarkMode)   
+[Live Demo](https://leandrodci.github.io/React-UseDarkMode) || [Link to the Hook](https://usehooks.com/#useDarkMode)   
 
 *Composes: [useMedia](https://usehooks.com/useMedia), [useLocalStorage](https://usehooks.com/useLocalStorage)*  
 
