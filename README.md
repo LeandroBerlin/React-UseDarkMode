@@ -9,7 +9,7 @@ Check UseHook [repo](https://github.com/gragland/usehooks)
 
 ## About the Darkmode hook (useDarkMode)  
 
-[Live Demo](https://leandrodci.github.io/React-UseDarkMode) || [Link to the Hook](https://usehooks.com/#useDarkMode)   
+[Live Demo](https://leandroberlin.github.io/React-UseDarkMode/) || [Link to the Hook](https://usehooks.com/#useDarkMode)   
 
 *Composes: [useMedia](https://usehooks.com/useMedia), [useLocalStorage](https://usehooks.com/useLocalStorage)*  
 
